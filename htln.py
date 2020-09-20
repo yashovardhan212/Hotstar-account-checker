@@ -115,7 +115,6 @@ with open("combo.txt","r") as file:
 			index = 0
 			
 
-#login("manmeetvyas@yahoo.co.in","786786786")
 sys.exit()
 		 
 		
